@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../fonts/Rubik/Rubik-Regular.ttf);
+}
+body{
+     background-color: red;
+}
