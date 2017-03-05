@@ -1,0 +1,97 @@
+@charset "utf-8";
+*{margin:0;
+ padding:0;
+ box-sizing:border-box;}
+ body{background:#ebebeb;}
+.right{float:right;}
+.botao{
+padding:6px ;
+background: linear-gradient(to bottom, #069,#09f 130%);
+ 
+border:1px solid white;
+font:16px tahoma, arial;
+float:right;
+ color:white;
+ border-radius:5px;
+
+ }
+.formulario{
+position:absolute;
+ top:50%;
+left:50%;
+width:480px;
+height:200px;
+background:white;
+border-radius:6px;
+margin-left:-250px;
+margin-top:-100px;
+padding:10px;
+box-shadow:#666 2px 2px 30px;
+ }
+ h1{
+	 float:left;
+	 width:100%;
+	 margin-bottom:10px;
+	 font:20px "Trebuchet MS", tahoma, arial ;
+	 color:#069;
+	 padding:5px;
+	 text-align:center;
+	 outline:none;	 
+ }
+ .formulario label{
+	 float:left;
+	 width:100%;
+ }
+  .formulario label span{
+	  float:left;
+	  width:100%;
+	 font:15px tahoma, arial;
+	 color#666;
+	 margin-bottom:10px;
+	  
+ }
+ .formulario label input{
+	float:left;
+width:100%;
+padding:10px;
+background:white;
+border-radius:5px;
+border:1px solid #999;
+outline:none; 
+	 
+ }
+ .cadastro{
+float:left;
+position:relative;
+ top:30%;
+left:50%;
+width:480px;
+height:200px;
+background:white;
+border-radius:6px;
+margin-left:-250px;
+margin-top:30px;
+padding:10px;
+box-shadow:#666 2px 2px 30px;
+
+ }
+.botao2{
+padding:6px ;
+background: linear-gradient(to bottom, #069,#09f 130%);
+ 
+border:1px solid white;
+font:16px tahoma, arial;
+margin-left: 185px;
+ color:white;
+ border-radius:5px;
+
+}
+.lateral{
+width: 200px;
+height: 200px;
+float: left;
+margin-right: -210px;
+margin-top: 50px;
+margin-left: 10px;
+
+}
